@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Descartes541125
+- 👋 Hi, I’m @Descartes210603
 - 👀 I’m interested in C, C++, Python and assembly
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python code to call assembly
